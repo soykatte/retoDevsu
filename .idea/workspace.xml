@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e07b5e95-775c-443e-af6c-0229c5dcf21c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2VJ0Iy5g8OYV23t2OFLbbvDRBvP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "/Users/katte/Desktop/retoDevsu",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kpenaranda.retodevsu.retoDevsu.servicios.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RetoDevsuApplication">
+    <configuration name="RetoDevsuApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kpenaranda.retodevsu.retoDevsu.RetoDevsuApplication" />
+      <module name="retoDevsu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kpenaranda.retodevsu.retoDevsu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuentaServiceImplTest.testUpdateCuenta" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retoDevsu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kpenaranda.retodevsu.retoDevsu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kpenaranda.retodevsu.retoDevsu.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.kpenaranda.retodevsu.retoDevsu.service.impl.CuentaServiceImplTest" />
+      <option name="METHOD_NAME" value="testUpdateCuenta" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovimientoServiceImplTest.testGetMovimientos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retoDevsu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kpenaranda.retodevsu.retoDevsu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kpenaranda.retodevsu.retoDevsu.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.kpenaranda.retodevsu.retoDevsu.service.impl.MovimientoServiceImplTest" />
+      <option name="METHOD_NAME" value="testGetMovimientos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetoDevsuApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retoDevsu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kpenaranda.retodevsu.retoDevsu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kpenaranda.retodevsu.retoDevsu" />
+      <option name="MAIN_CLASS_NAME" value="com.kpenaranda.retodevsu.retoDevsu.RetoDevsuApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetoDevsuApplicationTests.createExistingClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retoDevsu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kpenaranda.retodevsu.retoDevsu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kpenaranda.retodevsu.retoDevsu" />
+      <option name="MAIN_CLASS_NAME" value="com.kpenaranda.retodevsu.retoDevsu.RetoDevsuApplicationTests" />
+      <option name="METHOD_NAME" value="createExistingClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RetoDevsuApplication" />
+        <item itemvalue="JUnit.RetoDevsuApplicationTests" />
+        <item itemvalue="JUnit.RetoDevsuApplicationTests.createExistingClient" />
+        <item itemvalue="JUnit.MovimientoServiceImplTest.testGetMovimientos" />
+        <item itemvalue="JUnit.CuentaServiceImplTest.testUpdateCuenta" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e07b5e95-775c-443e-af6c-0229c5dcf21c" name="Changes" comment="" />
+      <created>1694538801923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694538801923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
